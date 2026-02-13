@@ -1,0 +1,13 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15" version="29.3.8">
+  <diagram name="Page-1" id="vP_DPeMBDf5QOtktxWDv">
+    <mxGraphModel dx="1004" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="d-k43SgoLKBUok3_gaZZ-1" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Performing a logistic regression&lt;/h1&gt;&lt;p&gt;You start with opening Rstudio. Then you enter a data set, check for missing values, if there are, delete that row. Is data set less than 1000 rows? Find a better data set and &amp;nbsp;Check other assumptions? If all are met, do logistic regression! [...]&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="450" width="180" x="40" y="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
